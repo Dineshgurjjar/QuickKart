@@ -1,16 +1,41 @@
-<<<<<<< HEAD
-# React + Vite
+# 🛒 QuickKart - Modern E-commerce Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**QuickKart** is a complete, responsive, and modern e-commerce store built using **React JS**, **Redux Toolkit**, **Tailwind CSS**, and **Razorpay Payment Gateway**. It offers a smooth shopping experience with features like product listings, list/grid view toggle, live search, cart management, checkout process, and secure payment options supporting **PhonePe**, **Paytm**, **UPI**, **Cards**, and **Net Banking**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ✅ **Modern UI with Responsive Design (Mobile/Desktop)**
+- ✅ **Customizable Product View (Grid/List Toggle)**
+- ✅ **Dynamic Product Listings with Filtering**
+- ✅ **Real-Time Search Functionality**
+- ✅ **Add to Cart / Remove / Update Quantity**
+- ✅ **Smooth Checkout Process**
+- ✅ **Razorpay Payment Integration (PhonePe, Paytm, UPI, Cards, Netbanking)**
+- ✅ **Order Confirmation Page with Payment Success Status**
+- ✅ **State Management with Redux Toolkit**
+- ✅ **React Router for Navigation**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# QuickKart
->>>>>>> e26a20a4425b26bec46d249c6822b913d0459250
+---
+
+## 🛠️ Tech Stack
+
+| Technology        | Purpose                          |
+|-------------------|----------------------------------|
+| React JS          | Frontend Framework              |
+| Redux Toolkit     | State Management                |
+| Tailwind CSS      | Styling                         |
+| React Router DOM  | Routing                         |
+| Axios             | API Handling                    |
+| Razorpay          | Payment Gateway Integration     |
+| Node.js + Express | Backend API (Optional Setup)    |
+
+---
+
+## 🚀 Installation and Setup Guide
+
+### Clone the repository
+```bash
+git clone https://github.com/Dineshgurjjar/QuickKart.git
+cd QuickKart
